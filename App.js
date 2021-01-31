@@ -30,7 +30,6 @@ export default function App() {
         }catch(e){
 
         }
-        console.log(resultOp)
         setDisplay(newDisplay)
         setResult(resultOp)
       }
